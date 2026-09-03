@@ -4,8 +4,8 @@
       "kty": "RSA",
       "use": "sig",
       "alg": "RS384",
-      "kid": "patient-companion-dev-20260830-rs384",
-      "n": "w_d7HD-hzQ-ljkgpOoap3EC7ELAkUFTzpPcxtLhvzo_1Sq4NV88EEUubKiFXWKhJwixfXZKlH4IMOWeV2lgUtmwazTpFn0cUmnKSht4e7MpE064EhRtTefA0PaZrUUBuH_Ydzt79G1uJslgDuXwdZ5q03XyxcT-IeFbNtAEjqEixI36Zp2-QNjtQ8yAjI0N3oNj9axO89jAEhsTGS9gH5vnQFrd0oN6NUavHd9qOo0tnrlrXvxHDfzQqrLTFivau-x524fThlK74qRct7Q3H-vVwFeXNmX3GGct_DVxSSoysUP9seqNDGtVtxmJU9-KD1Nwmai85ks_q68DMa1eWDK3gri8KBZXgpts-cv_fBjpCIrzZcuSAxU5mYhKZiwX_6CHYNm-Akg36VbOCBba0Dyn4Zc94DQ_z4Fp-n2G7IMWCR_f_HJvKH-D5wdOuJBEfMwEXrkdkaYDhq9dHFqGP3O8YZ4iV2HQPX-KnsljVP2PxHCTYLZWFkYyMVraQO7OZ",
+      "kid": "patient-companion-dev-20260903-rs384",
+      "n": "we2YGF0eQfqDmM2l7PxljLE1h-AOLrWaOVhGTW8JyIcEl9YRKzVRpYu5286CRYcPgSgHk5ZjoPiP8ZsNLPSonYjJrVlVGiNJ1xLnub17oK6dZlwEGTT7JCoPjIFsZqHlUHnDAzCgQmcrzB0autJ12062g-prEOuFdoN6NwJm0fHnXoE9IM6ZR8s9TdvXpqLTIfkOwHjDHqn3el4lAt2-3XpsoJE_KAEQd55eD1O4laAUDFzKOggs-bot5e9iv6Tepfrkon-DLnzDoFvwFUhTr8uJb0hr7FSLLwaBgHAWObb4YimXRor_ag5t8oeK0TVd1yu6jHNlopk8PDn7bYo_u3S4RtwZu_nYXCR3JdzD-6lazyvmjMBmdQxTCP8g5u3sWA2-Yc3XHLl2piWZcXV4HII1ELjaBqQ9nZa3tFiFo7mK3Tp8bXbS36spjSeUEGQARZINjjx0gGnr1W-z2xxpovdmnH4FX46dmYy4aFfqW5kJ_p-IusdCVX80bVL-eLUP",
       "e": "AQAB"
     }
   ]
